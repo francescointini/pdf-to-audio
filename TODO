@@ -1,0 +1,21 @@
+TODO:
+[x] wrapper per la classe del reader
+[] classe libro : {
+    - descrizione
+    - titolo
+    - autore
+    - genere
+    - segnalibro = `ref su contenuto`
+}
+
+[] = classe wraper per PDF {
+    estrazione metadati del contenuto
+}
+
+[] classe libreria = libri[...n], ? metodi di querying del contenuto ?
+
+[] classe segnaLibro = [
+    - libro
+    - sezione
+    - personalizzazione istanza ?? => una forma di settings
+]

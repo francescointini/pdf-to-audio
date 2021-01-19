@@ -1,0 +1,7 @@
+# editors stuff
+.idea/*
+*/.idea/*
+.vscode/*
+*/.vscode/*
+# temp output
+*.mp3
