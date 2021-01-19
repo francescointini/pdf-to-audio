@@ -5,5 +5,3 @@
 */.vscode/*
 # temp output
 *.mp3
-.DS_Store
-*/.DS_Store*
